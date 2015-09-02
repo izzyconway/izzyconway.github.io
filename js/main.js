@@ -1,3 +1,4 @@
+/*
 function askQuestions() {
 
 var firstName = prompt ('What is your first name?');
@@ -17,6 +18,7 @@ if (age >= 18){
 } else {
 	alert('Go away, child!');
 }
+*/
 
 /*
 If the user's first name is 'General' and the last name is NOT 'Assembly', then greet the general!
